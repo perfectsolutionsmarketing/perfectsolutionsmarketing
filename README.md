@@ -21,4 +21,8 @@ Professional with a strong track record in sales, marketing, and team leadership
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=perfectsolutionsmarketing&show_icons=true&theme=tokyonight)
+📊 **My Coding Activity:**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perfectsolutionsmarketing&show_icons=true&theme=dark&hide_border=true)
+
+🏆 **Profile Trophies:**
+[![github contribution trophies](https://github-profile-trophy.vercel.app/?username=perfectsolutionsmarketing&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
