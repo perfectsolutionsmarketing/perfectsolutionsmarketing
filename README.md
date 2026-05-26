@@ -21,8 +21,13 @@ Professional with a strong track record in sales, marketing, and team leadership
 ---
 
 ### 📈 GitHub Stats
-📊 **My Coding Activity:**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perfectsolutionsmarketing&show_icons=true&theme=dark&hide_border=true)
+
+📊 **My Profile Metrics:**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=perfectsolutionsmarketing&show_icons=true&theme=dark&hide_border=true" alt="Pramod Kumar GitHub Stats" />
+</p>
 
 🏆 **Profile Trophies:**
-[![github contribution trophies](https://github-profile-trophy.vercel.app/?username=perfectsolutionsmarketing&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=perfectsolutionsmarketing&theme=onedark&column=4" alt="Pramod Kumar Profile Trophies" />
+</p>
