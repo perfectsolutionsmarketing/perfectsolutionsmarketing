@@ -1,5 +1,14 @@
 # Hi there, I'm Pramod Kumar! 👋
 
+<p align="left">
+  <a href="mailto:perfectsolutionsmarketing@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/919873741300" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
 ### 🚀 Sales & Marketing Leader | Algo Trading & Automation Enthusiast
 Professional with a strong track record in sales, marketing, and team leadership, blending business strategies with data automation and Python-based solutions.
 
